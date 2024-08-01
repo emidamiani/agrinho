@@ -1,6 +1,6 @@
 header {
-    background-color: #ffffff;
-    color: white;
+    background-color: #79dd6f;
+    color: rgb(124, 209, 112);
 }
 
 * {
@@ -9,7 +9,7 @@ header {
 }
 
 .cabecalho {
-    background-color: #ffffff;
+    background-color: #cef0ce;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -45,4 +45,14 @@ header {
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.meio { 
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.meio{
+    margin: 10px;
+    padding: 10px;
 }
